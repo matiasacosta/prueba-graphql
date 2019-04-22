@@ -1,0 +1,15 @@
+[
+    {
+       "id": "unpsjb",
+       "nombre": "Universidad Nacional de la Patagonia San Juan Bosco",
+       "ubicacion": "Trelew",
+       "rating":4.5
+    },
+    
+    {
+       "id": "uba",
+       "nombre": "Universida Nacional de Buenos Aires",
+       "ubicacion": "Ciudad Autónoma de Buenos Aires",
+       "rating":5.0
+    }
+ ]

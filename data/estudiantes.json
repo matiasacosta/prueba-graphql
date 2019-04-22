@@ -1,0 +1,28 @@
+[
+    {
+       "id": "E1001",
+       "nombre":"Matías",
+       "apellido":"Acosta",
+       "email": "matiasacosta1995@gmail.com",
+       "password": "matikpo",
+       "universidadid": "unpsjb"
+    },
+    
+    {
+       "id": "E1002",
+       "nombre":"Ian",
+       "apellido":"Mazzaglia",
+       "email": "ianmazzaglia@gmail.com",
+       "password": "iankpo",
+       "universidadid": "unpsjb"
+    },
+    
+    {
+       "id": "E1003",
+       "nombre":"Agustin",
+       "apellido":"Figueroa",
+       "email": "agusfigeroa@gmail.com",
+       "password": "aguskpo",
+       "universidadid": "uba"
+    }
+ ]
